@@ -17,11 +17,11 @@ $$ \\ $$
 First, we need to convert $18\%$ to a decimal value:
 
 $$
-\begin{gather}
+\begin{gather*}
 &\quad&\quad 18\% \\ \\
 &=&\quad \frac{18}{100} \\ \\
 &=&\quad \enclose{circle}{ \ 0.18 \ }
-\end{gather}
+\end{gather*}
 $$
 
 $$ \\ $$
@@ -29,10 +29,10 @@ $$ \\ $$
 Next, we can multiply $0.18$, which we got from the previous step, by $50$ to find how many pieces of candy he gave to each friend:
 
 $$
-\begin{gather}
+\begin{gather*}
 &\quad&\quad 50 \cdot 0.18 \\ \\
 &=&\quad \enclose{circle}{ \ 9 \ }
-\end{gather}
+\end{gather*}
 $$
 
 $$ \\ $$
@@ -40,10 +40,10 @@ $$ \\ $$
 Since Mike has three friends, we can find the amount of candy he gave away in total by multiplying $9$, which we got from the previous step, by $3$:
 
 $$
-\begin{gather}
+\begin{gather*}
 &\quad&\quad 9 \cdot 3 \\ \\
 &=&\quad \enclose{circle}{ \ 27 \ }
-\end{gather}
+\end{gather*}
 $$
 
 $$ \\ $$
@@ -51,10 +51,10 @@ $$ \\ $$
 Finally, to find how many pieces of candy Mike will have left, we can subtract $27$, which we got from the previous step, from his starting amount of candy, $50$ pieces.
 
 $$
-\begin{gather}
+\begin{gather*}
 &\quad&\quad 50-27 \\ \\
 &=&\quad \enclose{circle}{ \ 23 \ }
-\end{gather}
+\end{gather*}
 $$
 
 $$ \\ $$
