@@ -3,7 +3,7 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Math Puzzles",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -58,6 +58,7 @@ const config: QuartzConfig = {
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
+      Plugin.HardLineBreaks(),
     ],
     filters: [Plugin.RemoveDrafts()],
     emitters: [
