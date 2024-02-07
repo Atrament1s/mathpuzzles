@@ -1,7 +1,7 @@
 ---
 title: Math Puzzles
 ---
->[!blankppuccingreen] ### Middle School
+>[!blankppuccingreen] Middle School
 >>$$ \\ $$
 >>$$\text{Convert } 0.235 \text{ to a percentage.}$$
 >>$$ \\ $$
@@ -25,7 +25,7 @@ title: Math Puzzles
 >><span style="display: block; text-align: center;">[[Q3 Solution|Solution (Click here!)]]</span>
 >>‏‏‎ ‎
 
->[!blankppuccingreen] ### High School
+>[!blankppuccingreen] High School
 >>$$ \\ $$
 >>$$x^{2}- 2x+5=0$$
 >>$$\text{Solve for } x$$
