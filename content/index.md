@@ -3,7 +3,9 @@ title: Math Puzzles
 ---
 >[!blankppuccingreen] Middle School
 >>$$ \\ $$
->>$$\text{Convert } 0.235 \text{ to a percentage.}$$
+>>$$
+>>\text{Convert } 0.235 \text{ to a percentage.}
+>>$$
 >>$$ \\ $$
 >><span style="display: block; text-align: center;">[[Q1 Solution|Solution (Click here!)]]</span>
 >>‏‏‎ ‎
@@ -11,7 +13,9 @@ title: Math Puzzles
 >$$ \\ $$
 >
 >>$$ \\ $$
->>$$0.7438 \times 10^{4} = \_\_\_\_\_\_$$
+>>$$
+>>0.7438 \times 10^{4} = \_\_\_\_\_\_
+>>$$
 >>$$ \\ $$
 >><span style="display: block; text-align: center;">[[Q2 Solution|Solution (Click here!)]]</span>
 >>‏‏‎ ‎
@@ -19,16 +23,24 @@ title: Math Puzzles
 >$$ \\ $$
 >
 >>$$ \\ $$
->>$$\text{Mike has } 50 \text{ pieces of candy. He wants to give 18\% of them to each}$$
->>$$\text{of his } 3 \text{ friends. How many pieces of candy will Mike have left?}$$
+>>$$
+>>\text{Mike has } 50 \text{ pieces of candy. He wants to give 18\% of them to each}
+>>$$
+>>$$
+>>\text{of his } 3 \text{ friends. How many pieces of candy will Mike have left?}
+>>$$
 >>$$ \\ $$
 >><span style="display: block; text-align: center;">[[Q3 Solution|Solution (Click here!)]]</span>
 >>‏‏‎ ‎
 
 >[!blankppuccingreen] High School
 >>$$ \\ $$
->>$$x^{2}- 2x+5=0$$
->>$$\text{Solve for } x$$
+>>$$
+>>x^{2}- 2x+5=0
+>>$$
+>>$$
+>>\text{Solve for } x
+>>$$
 >>$$ \\ $$
 >><span style="display: block; text-align: center;">[[Q4 Solution|Solution (Click here!)]]</span>
 >>‏‏‎ ‎
