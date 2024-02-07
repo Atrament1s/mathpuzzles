@@ -2,16 +2,20 @@
 title: High School Question 1 Solution
 ---
 >$$ \\ $$
+>
 >$$
 >x^{2}- 2x+5=0
 >$$
+>
 >$$
 >\text{Solve for } x
 >$$
+>
 >$$ \\ $$
 
 $$ \\ $$
 Solve using [[The Quadratic Formula|the quadratic formula]]:
+
 $$
 \begin{gather}
 &\quad&\quad x^{2}- 2x+5=0 \\ \\
@@ -23,6 +27,7 @@ x&=&\quad \frac{2\pm4i}{2} \\ \\
 x&=&\quad 1\pm2i \\ \\
 \end{gather}
 $$
+
 $$ \\ $$
 
 Therefore, solving for $x$ in $x^{2}- 2x+5=0$ will yield $x=1\pm2i$.

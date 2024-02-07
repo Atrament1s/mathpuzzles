@@ -1,5 +1,6 @@
 The quadratic formula is a formula used to solve quadratic equations. The quadratic formula can be seen below:
 $$ \\ $$
+
 $$
 \begin{gather}
 x=\frac{-b\pm\sqrt{b^{2}-4ac}}{2a} \\ \\
