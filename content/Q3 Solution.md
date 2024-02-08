@@ -20,7 +20,7 @@ $$
 \begin{gather*}
 &\quad&\quad 18\% \\ \\
 &=&\quad \frac{18}{100} \\ \\
-&=&\quad \enclose{circle}{ \ 0.18 \ }
+&=&\quad 0.18
 \end{gather*}
 $$
 
@@ -31,7 +31,7 @@ Next, we can multiply $0.18$, which we got from the previous step, by $50$ to fi
 $$
 \begin{gather*}
 &\quad&\quad 50 \cdot 0.18 \\ \\
-&=&\quad \enclose{circle}{ \ 9 \ }
+&=&\quad 9
 \end{gather*}
 $$
 
@@ -42,7 +42,7 @@ Since Mike has three friends, we can find the amount of candy he gave away in to
 $$
 \begin{gather*}
 &\quad&\quad 9 \cdot 3 \\ \\
-&=&\quad \enclose{circle}{ \ 27 \ }
+&=&\quad 27
 \end{gather*}
 $$
 
@@ -53,7 +53,7 @@ Finally, to find how many pieces of candy Mike will have left, we can subtract $
 $$
 \begin{gather*}
 &\quad&\quad 50-27 \\ \\
-&=&\quad \enclose{circle}{ \ 23 \ }
+&=&\quad 23
 \end{gather*}
 $$
 

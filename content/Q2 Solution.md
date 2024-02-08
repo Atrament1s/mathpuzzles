@@ -18,7 +18,7 @@ $$
 &=&\quad 7.438 \times 10 \times 10 \times 10 \\ \\
 &=&\quad 74.38 \times 10 \times 10 \\ \\
 &=&\quad 743.8 \times 10 \\ \\
-&=&\quad \enclose{circle}{\ 7438 \ } \\ \\
+&=&\quad 7438
 \end{gather*}
 $$
 

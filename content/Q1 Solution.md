@@ -19,7 +19,7 @@ $$
 &=&\quad 2.35 \times 10 \\ \\
 &=&\quad 23.5 \times 1 \\ \\
 &=&\quad 23.5 \\ \\
-&=&\quad \enclose{circle}{\ 23.5\% \ }
+&=&\quad 23.5\%
 \end{gather*}
 $$
 
