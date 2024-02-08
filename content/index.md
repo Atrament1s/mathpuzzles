@@ -58,11 +58,11 @@ title: Math Puzzles
 >$$ \\ $$
 >
 >>$$ \\ $$
->>Find the values of $a$ and $b$ in $f(x)=ax^{3}-bx$ that satisfy the following conditions:
->>1. $a$ and $b$ are both constants
->>2. $f(x)$ has $x$-intercepts at $-5$ and $5$
->>3. $f(x)$ has a local maximum at $y=5$ and a local minimum at $y=-5$
->>4. $f(x)$'s maximum occurs at a lower $x$-value than its minimum
+>>
+>>$$
+>>\text{Find the derivative of } y^{x}=x^{y}
+>>$$
+>>
 >>$$ \\ $$
 >><span style="display: block; text-align: center;">[[Q5 Solution|Solution (Click here!)]]</span>
 >>‏‏‎ ‎
@@ -74,3 +74,4 @@ title: Math Puzzles
 >>$$ \\ $$
 >><span style="display: block; text-align: center;">[[Q6 Solution|Solution (Click here!)]]</span>
 >>‏‏‎ ‎
+
