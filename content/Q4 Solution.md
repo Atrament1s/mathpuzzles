@@ -1,4 +1,4 @@
----
+e---
 title: High School Question 1 Solution
 ---
 >$$ \\ $$
@@ -8,7 +8,7 @@ title: High School Question 1 Solution
 >$$
 >
 >$$
->\text{Solve for } x
+>\text{Solve for } x \text{.}
 >$$
 >
 >$$ \\ $$

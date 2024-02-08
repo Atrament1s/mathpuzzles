@@ -4,11 +4,11 @@ title: Middle School Question 3 Solution
 >$$ \\ $$
 >
 >$$
->\text{Mike has } 50 \text{ pieces of candy. He wants to give 18\% of them to each}
+>\text{Mike has } 50 \text{ pieces of candy. He gives each of his } 3 \text{ friends } 18\% \text{ of the candy.}
 >$$
 >
 >$$
->\text{of his } 3 \text{ friends. How many pieces of candy will Mike have left?}
+>\text{How many pieces of candy will Mike have left?}
 >$$
 >
 >$$ \\ $$

@@ -29,11 +29,11 @@ title: Math Puzzles
 >>$$ \\ $$
 >>
 >>$$
->>\text{Mike has } 50 \text{ pieces of candy. He wants to give 18\% of them to each}
+>>\text{Mike has } 50 \text{ pieces of candy. He gives each of his } 3 \text{ friends } 18\% \text{ of the candy.}
 >>$$
 >>
 >>$$
->>\text{of his } 3 \text{ friends. How many pieces of candy will Mike have left?}
+>>\text{How many pieces of candy will Mike have left?}
 >>$$
 >>
 >>$$ \\ $$
@@ -48,7 +48,7 @@ title: Math Puzzles
 >>$$
 >>
 >>$$
->>\text{Solve for } x
+>>\text{Solve for } x \text{.}
 >>$$
 >>
 >>$$ \\ $$
@@ -60,7 +60,7 @@ title: Math Puzzles
 >>$$ \\ $$
 >>
 >>$$
->>\text{Find the derivative of } y^{x}=x^{y}
+>>\text{Find the derivative of } y^{x}=x^{y} \text{.}
 >>$$
 >>
 >>$$ \\ $$
